@@ -21,3 +21,6 @@
 
 # [aristiatekkito](https://cdn.discordapp.com/attachments/794190206491688970/1193096795740459008/aristiatekkito.osk?ex=65ab78fa&is=659903fa&hm=9a17397d76075bea699625d7f026dc497f0a88de77662594057dcd032a00f6bc&)
 ![screenshot138](https://github.com/ozy1221/skins/assets/113712921/a8240f3a-1dd2-4223-8f9e-557a0fee97c0)
+
+# [-                  twitch.tvutsuloli](https://cdn.discordapp.com/attachments/794190206491688970/1196674110374281256/-_twitch.tvutsuloli.osk?ex=65b87c9d&is=65a6079d&hm=66682a6af37a36e2f53f04d8841639f050e78fc84b6eb7280e5dd1fd7b4ccd3f&)
+![screenshot148](https://github.com/ozy122/skins/assets/113712921/2b711735-ed40-4622-a73c-761dd91fffbf)
